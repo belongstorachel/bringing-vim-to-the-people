@@ -1,9 +1,10 @@
 " * General Settings
 scriptencoding utf-8
 
-colorscheme blackboard
-
-set lines=50 columns=150
+" My normal color scheme
+colorscheme ir_black
+" Colorscheme for teaching:
+"colorscheme morning
 
 " Use zsh.
 set shell=zsh
