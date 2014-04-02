@@ -127,3 +127,4 @@ imap <D-v> "+p
 imap <D-c> "+y
 
 source ~/.vim/snippets/support_functions.vim
+au BufRead,BufNewFile *.handlebars,*.hbs set ft=html syntax=handlebars
